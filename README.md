@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Abhishek%20Choudhary&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cloud%20&%20DevOps&descAlignY=55&descAlign=50" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=🚀+Computer+Engineering;💻+Full-Stack+Developer;⚡+Architecting+Scalable+Apps;☁️+Cloud+Deployment+%26+DevOps;🔥+Let's+build+something+amazing+together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Choudhary;Full+Stack+Developer;AWS+Certified+Cloud+Practitioner;Architecting+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
   <br>
@@ -55,7 +55,7 @@
 <details open>
 <summary><b>DevOps, Cloud & Tools</b></summary>
 <br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_(EC2,_S3)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
