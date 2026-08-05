@@ -20,7 +20,7 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          USERNAME: abbhhhiiiii
+          USERNAME: Abhishek10-0
           BRANCH_NAME: profile-summary-card-output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
