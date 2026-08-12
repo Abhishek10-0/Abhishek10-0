@@ -22,6 +22,7 @@
 
 ---
 
+
 ### 🚀 Summary
 > **Computer Engineering Graduate & Full Stack Developer** with hands-on production experience building scalable applications using React.js, Node.js, and AWS[cite: 2]. Delivered across hospitality, event management, and food delivery platforms including a booking system that processed 1,200+ transactions within 10 days of launch[cite: 2]. AWS Certified Cloud Practitioner[cite: 2]. Based in Mumbai, India[cite: 2].
 
